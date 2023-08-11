@@ -1,5 +1,5 @@
 # vim-bindings
-vim like bindings to enable vim-keys on laptop
+vim like bindings to enable vim-keys on laptop  
 Change behaviour of Caps lock to
 1. CTRL-HJKL as arrow-keys
 2. CTRL-IO as HOME-END keys
